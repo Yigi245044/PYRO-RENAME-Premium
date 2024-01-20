@@ -6,7 +6,7 @@ from user import User, LOGGER
 
 logging.getLogger().setLevel(logging.INFO)
  
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "6686737285:AAFS95C2rwkYtwC-dipW2ePCSTJTTiXxG5Y")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "6617104403:AAGVM-N4J3l-CMHO98Sp6-U3_26m2ZBsTjw")
 
 API_ID = int(os.environ.get("API_ID", "21037450"))
 
